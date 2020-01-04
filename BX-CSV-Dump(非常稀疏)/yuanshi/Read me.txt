@@ -1,0 +1,2 @@
+ Book-Crossings 【数据地址：http://www2.informatik.uni-freiburg.de/~cziegler/BX/BX-CSV-Dump.zip】
+　　Book-Crossings是由Cai-Nicolas Ziegler根据  bookcrossing.com 的数据编写的图书评分数据集。 它包含90000个用户的270000本书的110万个评分。评分范围从1到10，包括显式和隐式的评分。Book-Crossings数据集是最不密集的数据集之一，也是具有明确评分的最不密集的数据集。
