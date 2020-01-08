@@ -1,0 +1,52 @@
+1. rating.txt
+
+UserID
+products
+Categories of the products
+rating
+helpfulness
+time
+content of review
+{userid:helpfulness voting}*
+
+
+2.userstatistic
+
+userid
+registering time
+number of reviews
+number of trustors
+
+
+
+3.trustnetwork
+
+u--->v
+trustees (v)
+trustors (u)
+
+
+
+----------------------------------------------------------------------------------------------------------------
+References
+----------------------------------------------------------------------------------------------------------------
+
+
+@Conference{tang-etal12a,
+  title={m{T}rust: {D}iscerning multi-faceted trust in a connected world},
+  author={Tang, J. and Gao, H. and Liu, H.},
+  booktitle={Proceedings of the fifth ACM international conference on Web search and data mining},
+  pages={93--102},
+  year={2012},
+  organization={ACM}
+}
+
+
+@Confernce{tang-etal12b,
+  title={e{T}rust: {U}nderstanding trust evolution in an online world},
+  author={Tang, J. and Liu, H. and Gao, H. and Das Sarmas, A.},
+  booktitle={Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining},
+  pages={253--261},
+  year={2012},
+  organization={ACM}
+}
